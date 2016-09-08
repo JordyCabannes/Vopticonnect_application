@@ -1,4 +1,4 @@
-//Written by Muaz Khan
+// Written by Muaz Khan
 // Last time updated: 2016-04-17 5:58:28 PM UTC
 
 'use strict';
