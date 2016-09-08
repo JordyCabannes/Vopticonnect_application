@@ -1,0 +1,18 @@
+{
+  "name": "dedede",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Signaling-Server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8",
+    "xcode": "^0.8.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
